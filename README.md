@@ -19,4 +19,4 @@ Currently going deep on training internals and post-training methods. Building t
 
 ## links
 
-[google scholar](https://scholar.google.com/citations?user=Or_bnyEAAAAJ&hl=en) · [openreview](https://openreview.net/profile?id=~Yash_Ganpat_Sawant1) · [linkedin](https://www.linkedin.com/in/yashsawant22/)
+[blog](https://yashsawant22.github.io) · [google scholar](https://scholar.google.com/citations?user=Or_bnyEAAAAJ&hl=en) · [openreview](https://openreview.net/profile?id=~Yash_Ganpat_Sawant1) · [linkedin](https://www.linkedin.com/in/yashsawant22/)
