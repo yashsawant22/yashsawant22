@@ -1,21 +1,22 @@
-# Hi, I'm Yash Sawant
+# yash sawant
 
-AI/ML Engineer and Researcher working on **LLM Personalization**, **Digital Twins**, and **Retrieval-Augmented Generation**.
+I build personalization systems for LLMs — the kind where the model actually learns *you*, not just your last three messages.
 
-## Research Interests
+Right now I'm the ML engineer at [Wethos AI](https://wethos.ai), where I designed the full pipeline for digital twins: per-user LoRA adapters, style-preserving synthetic data, GRPO-based behavioral alignment. One base model, many personalities.
 
-- Personalized LLM systems for high-stakes decision domains
-- Behavioral modeling and user-adaptive AI
-- Evaluation methodologies for personalization quality
-- Retrieval-augmented generation with temporal knowledge graphs
+Previously: research at UC Irvine's Center for Neurobiology of Memory & Learning, data science at BNY Mellon.
 
-## Recent Work
+## stuff I've put out
 
-- **"Beyond Prompting: Challenges in Building Deeply Personalized LLM Systems"** — Position paper on fundamental limitations of current LLM personalization paradigms. [arXiv (coming soon)]
-- **"High-Stakes Personalization: Rethinking LLM Customization for Individual Investor Decision-Making"** — Exploring personalization challenges in financial AI through InvestMate, a system for AI-augmented portfolio management. [arXiv (coming soon)]
+- **InvestMate** — AI-augmented portfolio management with temporal knowledge graphs. Published at ACL 2026 workshop. [[paper]](https://arxiv.org/abs/2604.04300) [[code]](https://github.com/yashsawant22/investmate)
+- **Fine-Tuning-Llama** — practical QLoRA fine-tuning on limited VRAM
 
-## Links
+## what I think about
 
-- [Google Scholar](https://scholar.google.com/citations?user=Or_bnyEAAAAJ&hl=en)
-- [OpenReview](https://openreview.net/profile?id=~Yash_Ganpat_Sawant1)
-- [LinkedIn](https://www.linkedin.com/in/yashsawant22/)
+How to make LLMs that remember and adapt to individual people without being creepy about it. The gap between "personalized" (your name in the greeting) and *personal* (the model shifts its reasoning based on who you are). Also: evaluation — how do you even measure if a model "sounds like" someone?
+
+Currently going deep on training internals and post-training methods. Building things from scratch to understand what's underneath the abstractions I use daily.
+
+## links
+
+[google scholar](https://scholar.google.com/citations?user=Or_bnyEAAAAJ&hl=en) · [openreview](https://openreview.net/profile?id=~Yash_Ganpat_Sawant1) · [linkedin](https://www.linkedin.com/in/yashsawant22/)
